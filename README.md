@@ -26,7 +26,7 @@ This demo application simulates a scenario where two models (Model A and Model B
 
 1. Clone the Repository
     ```bash
-    git clone https://github.com/yourusername/thompson_sampling_demo.git
+    git clone https://github.com/hangwl/thompson_sampling_demo.git
     cd thompson_sampling_demo
     ```
 2. Create a Virtual Environment
